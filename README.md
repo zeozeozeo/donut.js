@@ -24,3 +24,7 @@ Math.cos(i),f=            e+2,l=1/(c*f*r
          *!!!==::-.,~~;;;======
              ==;;;;:~-.-,*/
 ```
+
+Output ([-> view live demo <-](https://zeozeozeo.github.io/donut.js/)):
+
+![Output](https://github.com/zeozeozeo/donut.js/raw/main/static/donut.gif)
